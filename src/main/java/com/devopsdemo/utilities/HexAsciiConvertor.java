@@ -28,7 +28,7 @@ public class HexAsciiConvertor {
 	    return asciiValue;
 	}
 	
-	/**
+	/***
 	 * Method to convert ascii values into hexadecimal
 	 * method is returning the hexadecimal value
 	 * @param asciiValue
